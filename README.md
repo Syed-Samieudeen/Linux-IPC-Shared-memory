@@ -126,7 +126,8 @@ int main() {
 
 
 ## OUTPUT
-
+![sem](sem2.jpeg)
+![ipcs2](ipcs2.jpeg)
 
 # RESULT:
 The program is executed successfully.
